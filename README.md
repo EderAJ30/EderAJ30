@@ -3,7 +3,9 @@ Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de
 
 
 ## 🌐 Redes Sociales:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)](https://instagram.com/https://www.instagram.com/ederaj.30/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://linkedin.com/in/https://www.linkedin.com/in/eder-avalos-juarez-352891278/) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/https://www.instagram.com/ederaj.30/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/eder-avalos-juarez-352891278/)
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,mysql)](https://skillicons.dev)
