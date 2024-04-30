@@ -1,6 +1,6 @@
 # 🐐 Acerca de mí:
-Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de Ingeniería en Computación <br>
-con una pasión por la programación y el aprendizaje continuo. Mi objetivo es utilizar mis habilidades <br>
+Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de Ingeniería en Computación 
+con una pasión por la programación y el aprendizaje continuo. <br> Mi objetivo es utilizar mis habilidades <br>
 de desarrollo para satisfacer necesidades <br>y resolver problemas de manera innovadora.<br><br>
 
 
