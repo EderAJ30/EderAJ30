@@ -5,8 +5,8 @@ de desarrollo para satisfacer necesidades y resolver problemas de manera innovad
 
 
 ## 🌐 Redes Sociales:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/https://www.instagram.com/ederaj.30/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/eder-avalos-juarez-352891278/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ederaj.30/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eder-avalos-juarez-352891278/)
 
 
 # 💻 Tech Stack:
