@@ -14,9 +14,6 @@ Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EderAJ30&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EderAJ30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Repositorio más contribuido
-![](https://github-contributor-stats.vercel.app/api?username=EderAJ30&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EderAJ30&icon=0&color=12)](https://visitcount.itsvg.in)
 
