@@ -3,7 +3,6 @@ Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de
 con una pasión <br> por la programación y el aprendizaje continuo. Mi objetivo es utilizar mis habilidades <br>
 de desarrollo para satisfacer necesidades y resolver problemas de manera innovadora.<br><br>
 
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql)](https://skillicons.dev)
 # 📊 GitHub Stats:
