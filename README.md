@@ -4,11 +4,6 @@ con una pasión <br> por la programación y el aprendizaje continuo. Mi objetivo
 de desarrollo para satisfacer necesidades y resolver problemas de manera innovadora.<br><br>
 
 
-## 🌐 Redes Sociales:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ederaj.30/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eder-avalos-juarez-352891278/)
-
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,mysql)](https://skillicons.dev)
 # 📊 GitHub Stats:
