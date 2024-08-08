@@ -1,7 +1,17 @@
 # 🐐💽 Acerca de mí:
-Hola, soy Eder Avalos Juarez<br>¡Bienvenido/a a mi perfil! Soy un estudiante de Ingeniería en Computación 
-con una pasión <br> por la programación y el aprendizaje continuo. Mi objetivo es utilizar mis habilidades <br>
-de desarrollo para satisfacer necesidades y resolver problemas de manera innovadora.<br><br>
+<p>Desde que empecé mi carrera en ingeniería en computacion en la UNAM FES ARAGON, he adquirido experiencia
+                en el área del desarrollo <i>web</i>
+                y aplicaciones de escritorio.
+                <br><br>Tengo certificados en <i>Oracle Java Foundations</i> y <i>Database Foundations</i>, lo que
+                respalda mis
+                conocimientos en programación y bases de datos.
+            </p>
+            <p>He participado en diversos proyectos académicos y personales, donde he desarrollado habilidades tanto en
+                <i>Frontend</i> como en <i>Backend</i>. <br> <br> Disfruto llevar a cabo la maquetación e interactividad
+                de
+                interfaces <i>web</i>, así como optimizar el rendimiento y el posicionamiento de sitios y aplicaciones
+                <i>web</i>.
+            </p>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,spring,java,mysql)](https://skillicons.dev)
