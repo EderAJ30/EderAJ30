@@ -1,5 +1,5 @@
 # 🐐💽 Acerca de mí:
-Bienvenido a mi perfil <3
+Bienvenido a mi perfil 
 <p>Desde que empecé mi carrera en ingeniería en computacion en la UNAM FES ARAGON, he adquirido experiencia
                 en el área del desarrollo <i>web</i>
                 y aplicaciones de escritorio.
