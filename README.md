@@ -4,7 +4,7 @@ con una pasión <br> por la programación y el aprendizaje continuo. Mi objetivo
 de desarrollo para satisfacer necesidades y resolver problemas de manera innovadora.<br><br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,java,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,spring,java,mysql)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EderAJ30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EderAJ30&theme=tokyonight&hide_border=false)<br/>
