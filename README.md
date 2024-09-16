@@ -8,10 +8,7 @@ Bienvenido a mi perfil
                 conocimientos en programación y bases de datos.
             </p>
             <p>He participado en diversos proyectos académicos y personales, donde he desarrollado habilidades tanto en
-                <i>Frontend</i> como en <i>Backend</i>. <br> <br> Disfruto llevar a cabo la maquetación e interactividad
-                de
-                interfaces <i>web</i>, así como optimizar el rendimiento y el posicionamiento de sitios y aplicaciones
-                <i>web</i>.
+                <i>Frontend</i> como en <i>Backend</i>. 
             </p>
 
 # 💻 Tech Stack:
