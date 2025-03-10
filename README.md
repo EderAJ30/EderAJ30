@@ -1,6 +1,6 @@
 # 🐐💽 Acerca de mí:
 Bienvenido a mi perfil 
-Soy muy apasionado por el desarrollo. Estudio Ingeniería en Computación en la UNAM FES Aragón y tengo experiencia en desarrollo web y aplicaciones de escritorio. Cuento con certificaciones en Oracle Java Foundations y Database Foundations, que respaldan mis conocimientos en la ingeniera de software.
+Soy una persona apasionado por el desarrollo, la tecnologia y la computacion. Estudio Ingeniería en Computación en la UNAM FES Aragón y tengo experiencia en desarrollo web y aplicaciones de escritorio. Cuento con certificaciones en Oracle Java Foundations y Database Foundations, que respaldan mis conocimientos en la ingeniera de software.
 
 # 🌐 Ver Portafolio en Línea
 
