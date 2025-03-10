@@ -1,15 +1,8 @@
 # 🐐💽 Acerca de mí:
 Bienvenido a mi perfil 
-<p>Desde que empecé mi carrera en ingeniería en computacion en la UNAM FES ARAGON, he adquirido experiencia
-                en el área del desarrollo <i>web</i>
-                y aplicaciones de escritorio.
-                <br><br>Tengo certificados en <i>Oracle Java Foundations</i> y <i>Database Foundations</i>, lo que
-                respalda mis
-                conocimientos en programación y bases de datos.
-            </p>
-            <p>He participado en diversos proyectos académicos y personales, donde he desarrollado habilidades tanto en
-                <i>Frontend</i> como en <i>Backend</i>. 
-            </p>
+Soy muy apasionado por el desarrollo. Estudio Ingeniería en Computación en la UNAM FES Aragón y tengo experiencia en desarrollo web y aplicaciones de escritorio. Cuento con certificaciones en Oracle Java Foundations y Database Foundations, que respaldan mis conocimientos en la ingeniera de software.
+
+# 🌐 Ver Portafolio en Línea
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,nodejs,react,python,spring,java,mysql)](https://skillicons.dev)
