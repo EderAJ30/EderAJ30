@@ -6,7 +6,7 @@ Soy una persona apasionado por el desarrollo, la tecnologia y la computacion. Es
 🔗 [Acceder a mi portafolio](https://ederaj30.github.io/MI-PORTAFOLIO-EAJ/)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,nodejs,react,python,spring,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,nodejs,react,php,laravel,python,spring,java,mysql,postgresql)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EderAJ30&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EderAJ30&theme=tokyonight&hide_border=false)<br/>
